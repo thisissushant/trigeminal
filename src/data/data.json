@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, fresh mozzarella, and basil leaves.",
+    "price": 12.99,
+    "category": "Mains",
+    "image": "https://example.com/margherita-pizza.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+    "price": 8.99,
+    "category": "Appetizers",
+    "image": "https://example.com/caesar-salad.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Grilled Salmon",
+    "description": "Fresh salmon fillet grilled to perfection, served with roasted vegetables and lemon butter sauce.",
+    "price": 19.99,
+    "category": "Mains",
+    "image": "https://example.com/grilled-salmon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Lava Cake",
+    "description": "Decadent chocolate cake with a molten center, served with vanilla ice cream.",
+    "price": 7.99,
+    "category": "Desserts",
+    "image": "https://example.com/chocolate-lava-cake.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Beef Sliders",
+    "description": "Three mini beef patties served on brioche buns with caramelized onions and cheddar cheese.",
+    "price": 11.99,
+    "category": "Appetizers",
+    "image": "https://example.com/beef-sliders.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pad Thai",
+    "description": "Stir-fried rice noodles with shrimp, eggs, bean sprouts, and peanuts in a sweet and tangy sauce.",
+    "price": 14.99,
+    "category": "Mains",
+    "image": "https://example.com/pad-thai.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Caprese Salad",
+    "description": "Fresh mozzarella, tomatoes, and basil leaves drizzled with balsamic glaze and olive oil.",
+    "price": 9.99,
+    "category": "Appetizers",
+    "image": "https://example.com/caprese-salad.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Beef Stroganoff",
+    "description": "Tender beef strips in a creamy mushroom sauce, served over egg noodles.",
+    "price": 16.99,
+    "category": "Mains",
+    "image": "https://example.com/beef-stroganoff.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tiramisu",
+    "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "https://example.com/tiramisu.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Spinach Artichoke Dip",
+    "description": "Creamy blend of spinach, artichoke hearts, and cheese, served with tortilla chips.",
+    "price": 8.99,
+    "category": "Appetizers",
+    "image": "https://example.com/spinach-artichoke-dip.jpg"
+  }
+]
