@@ -5,7 +5,7 @@ export const Navbar = () => {
     <>
       <div className="navbar bg-teal-600">
         <div className="flex-1">
-          <a className="btn btn-ghost text-5xl text-white">Food</a>
+          <a className="font-serif text-5xl text-white">Healthy Food</a>
         </div>
         <div className="flex-none">
           <div className="dropdown dropdown-end">
