@@ -22,7 +22,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <BrowserRouter>
         <Navbar />
         <FoodMenu />
-        <Landing />
         <Routes>
           <Route path="/maincourse" element={<MainCourse />} />
           <Route path="/starters" element={<Starter />} />
@@ -31,6 +30,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
           <Route path="/payus" element={<PayUs />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>
+        <Landing />
+
         <BottomNavbar />
         <Footer />
       </BrowserRouter>
