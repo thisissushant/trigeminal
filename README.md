@@ -1,8 +1,44 @@
-# React + Vite
+# Healthy Food
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Food Ordering App is a React-based application that allows customers to browse a restaurant's menu, add items to their cart, review their selections, and place orders seamlessly.
 
-Currently, two official plugins are available:
+# Features
+- Landing Page: A visually appealing landing page that showcases the restaurant's brand and concept.
+- Menu Page: Displays the menu categorized by Appetizers, Mains, and Desserts. Each item is presented with a description, image, and price.
+- Add to Cart: Customers can add items to their cart directly from the menu page.
+- Order Summary: Customers can review their selections, modify quantities, and remove items from the cart.
+- Checkout Process: Customers can proceed to checkout and provide their information to complete the order.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
+- React
+- Redux ToolKit
+- Tailwind
+- Daisy UI
+- React Router
+
+# Getting Started
+
+To run the Food Ordering App locally, follow these steps:
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/thisissushant/trigeminal.git
+
+```
+
+2. Install Dependencies
+
+```bash
+cd triagminal
+npm install
+```
+3. Start the Development Server
+
+```bash
+npm run dev
+```
+
+This will start the development server and open the app in your default browser at http://localhost:3000.
+
+
