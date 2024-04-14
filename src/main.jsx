@@ -14,6 +14,7 @@ import PayUs from "./components/PayUs.jsx";
 import { store } from "./store/store.js";
 import { Provider } from "react-redux";
 import { Cart } from "./components/Cart.jsx";
+import { Landing } from "./components/Landing.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -21,6 +22,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <BrowserRouter>
         <Navbar />
         <FoodMenu />
+        <Landing />
         <Routes>
           <Route path="/maincourse" element={<MainCourse />} />
           <Route path="/starters" element={<Starter />} />
